@@ -1,0 +1,60 @@
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Picimize.exe.config
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Picimize.exe
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Picimize.pdb
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Picimize.xml
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.RasalasCloseForm.resources
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.Resources.resources
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.MainBig.resources
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.FastPic.resources
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.FilterBox.resources
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.RasalasButton.resources
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.RasalasClose.resources
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.RasalasTrackBar.resources
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.Vorschau.resources
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.exe
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.xml
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.pdb
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Picimize.exe.manifest
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Picimize.application
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.exe.manifest
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Picimize.application
+k:\users\torben\documents\visual studio 2013\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojAssemblyReference.cache
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.RasalasCloseForm.resources
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.Resources.resources
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.MainBig.resources
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.FastPic.resources
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.FilterBox.resources
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.RasalasButton.resources
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.RasalasClose.resources
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.RasalasTrackBar.resources
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.Vorschau.resources
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.cache
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.CoreCompileInputs.cache
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.exe
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.xml
+E:\USB32\Projects\Picimize\WindowsApplication3\obj\Debug\Picimize.pdb
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojAssemblyReference.cache
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.RasalasCloseForm.resources
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.Resources.resources
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.MainBig.resources
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.FastPic.resources
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.FilterBox.resources
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.RasalasButton.resources
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.RasalasClose.resources
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.RasalasTrackBar.resources
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.Vorschau.resources
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.cache
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.CoreCompileInputs.cache
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.exe
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.xml
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.pdb
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\bin\Debug\Picimize.exe.config
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\bin\Debug\Picimize.exe.manifest
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\bin\Debug\Picimize.application
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\bin\Debug\Picimize.exe
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\bin\Debug\Picimize.pdb
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\bin\Debug\Picimize.xml
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.exe.manifest
+C:\Users\Torben\workspace\Picimize\WindowsApplication3\obj\Debug\Picimize.application
