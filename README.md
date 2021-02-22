@@ -6,3 +6,5 @@ Nutzer, speziell auf Mobilgeräten, verbrauchen auch gleichzeitig nicht unnötig
 
 Das kleine Picimize öffnet sich und alles was man machen muss, ist die richtige Größe einzustellen und die zu verändernden Bilder auf das Fenster zu legen.
 Picimize erzeugt nun automatisch einen Ordner mit der eingestellten Pixelgröße (für "640 px" heißt der Ordner "#640") und legt die verkleinerten Bilder in diesen neuen Ordner.
+
+![Bild der Programmoberfläche](picimize_form.png)
